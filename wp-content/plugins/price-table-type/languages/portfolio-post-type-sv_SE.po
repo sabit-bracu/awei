@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Price Post Type\n"
+"POT-Creation-Date: 2013-02-19 11:32+0100\n"
+"PO-Revision-Date: 2013-02-19 11:46+0100\n"
+"Last-Translator: Andréas Lundgren <adevade@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: price-post-type.php:65
+msgid "Price"
+msgstr "Price"
+
+#: price-post-type.php:66 price-post-type.php:230
+msgid "Price Item"
+msgstr "Priceobjekt"
+
+#: price-post-type.php:67
+msgid "Add New Item"
+msgstr "Lägg till nytt objekt"
+
+#: price-post-type.php:68 price-post-type.php:70
+msgid "Add New Price Item"
+msgstr "Lägg till nytt objekt i pricen"
+
+#: price-post-type.php:69
+msgid "Edit Price Item"
+msgstr "Redigera priceobjekt"
+
+#: price-post-type.php:71
+msgid "View Item"
+msgstr "Visa objekt"
+
+#: price-post-type.php:72
+msgid "Search Price"
+msgstr "Sök i price"
+
+#: price-post-type.php:73
+msgid "No price items found"
+msgstr "Inga objekt hittades."
+
+#: price-post-type.php:74
+msgid "No price items found in trash"
+msgstr "Inga objekt hittades i papperskorgen."
+
+#: price-post-type.php:97 price-post-type.php:111
+msgid "Price Tags"
+msgstr "Priceetiketter"
+
+#: price-post-type.php:98
+msgid "Price Tag"
+msgstr "Priceetikett"
+
+#: price-post-type.php:99
+msgid "Search Price Tags"
+msgstr "Sök bland priceetiketter"
+
+#: price-post-type.php:100
+msgid "Popular Price Tags"
+msgstr "Populära priceetiketter"
+
+#: price-post-type.php:101
+msgid "All Price Tags"
+msgstr "Alla priceetiketter"
+
+#: price-post-type.php:102
+msgid "Parent Price Tag"
+msgstr "Förälder till priceetikett"
+
+#: price-post-type.php:103
+msgid "Parent Price Tag:"
+msgstr "Förälder till priceetikett:"
+
+#: price-post-type.php:104
+msgid "Edit Price Tag"
+msgstr "Redigera priceetikett"
+
+#: price-post-type.php:105
+msgid "Update Price Tag"
+msgstr "Uppdatera priceetikett"
+
+#: price-post-type.php:106
+msgid "Add New Price Tag"
+msgstr "Lägg till ny priceetikett"
+
+#: price-post-type.php:107
+msgid "New Price Tag Name"
+msgstr "Nytt namn på priceetikett"
+
+#: price-post-type.php:108
+msgid "Separate price tags with commas"
+msgstr "Separera flera priceetiketter med komma"
+
+#: price-post-type.php:109
+msgid "Add or remove price tags"
+msgstr "Lägg till eller ta bort priceetiketter"
+
+#: price-post-type.php:110
+msgid "Choose from the most used price tags"
+msgstr "Välj från de populäraste priceetiketterna"
+
+#: price-post-type.php:134 price-post-type.php:148
+msgid "Price Categories"
+msgstr "Pricekategorier"
+
+#: price-post-type.php:135
+msgid "Price Category"
+msgstr "Pricekategori"
+
+#: price-post-type.php:136
+msgid "Search Price Categories"
+msgstr "Sök bland pricekategorier"
+
+#: price-post-type.php:137
+msgid "Popular Price Categories"
+msgstr "Populära pricekategorier"
+
+#: price-post-type.php:138
+msgid "All Price Categories"
+msgstr "Alla pricekategorier"
+
+#: price-post-type.php:139
+msgid "Parent Price Category"
+msgstr "Förälder till pricekategori"
+
+#: price-post-type.php:140
+msgid "Parent Price Category:"
+msgstr "Förälder till pricekategori:"
+
+#: price-post-type.php:141
+msgid "Edit Price Category"
+msgstr "Redigera pricekategori"
+
+#: price-post-type.php:142
+msgid "Update Price Category"
+msgstr "Uppdatera pricekategori"
+
+#: price-post-type.php:143
+msgid "Add New Price Category"
+msgstr "Lägg till ny pricekategori"
+
+#: price-post-type.php:144
+msgid "New Price Category Name"
+msgstr "Nytt namn på pricekategori"
+
+#: price-post-type.php:145
+msgid "Separate price categories with commas"
+msgstr "Separera flera pricekategorier med komma"
+
+#: price-post-type.php:146
+msgid "Add or remove price categories"
+msgstr "Lägg till eller ta bort pricekategorier"
+
+#: price-post-type.php:147
+msgid "Choose from the most used price categories"
+msgstr "Välj från de populäraste pricekategorierna"
+
+#: price-post-type.php:174
+msgid "Thumbnail"
+msgstr "Miniatyrbild"
+
+#: price-post-type.php:241
+msgid "Price Item Pending"
+msgstr "Priceobjekt väntar på granskning"
